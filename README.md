@@ -10,6 +10,7 @@
 ● Create a repository on Github.
 
 ● Create an API that has the following endpoints:
+
         ● A service to provide a search lookup within the podcasts (at least by name, but is open to any suggestions)
         
         ● A service that would allow saving the top 20 podcasts to a separate JSON File
@@ -19,6 +20,7 @@
         ● A service to remove a podcast, using a given identifier (defined by you)
 
 ● Bonus!
+
         ● Use a Database (suggested: SQLite), instead of the JSON File. Include a create schema in the repo and instructions on how to implement it.
         
         ● Add authentication API endpoint(s)
