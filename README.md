@@ -3,7 +3,7 @@
 
 ## Requirements:
 
-1. Given the following JSON Data as the source: https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json
+1. Given the following JSON Data as the source: https://rss.applemarketingtools.com/api/v2/us/music/most-played/100/albums.json
 
 ## Develop a solution to the given requirements.
 
