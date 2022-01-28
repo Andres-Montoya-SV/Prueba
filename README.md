@@ -37,5 +37,3 @@
 
 ● Please provide the information/steps so I can run your solution, entirely.
 
-
-2. Create a Wordpress site that will display the podcasts(using BeaverBuilder).
